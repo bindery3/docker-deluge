@@ -43,4 +43,4 @@ jobs:
           cache-to: type=local,dest=/tmp/.buildx-cache
           tags: |
             bindery/deluge:latest
-            ghcr.io/bindery/deluge:latest
+            ghcr.io/bindery3/deluge:latest
